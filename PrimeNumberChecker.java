@@ -3,6 +3,7 @@ public class PrimeNumberChecker {
         int number = 32; // Hardcoded input number
 
         boolean isPrime = true;
+        System.out.println("Hello this is my change. My name is Adam");
 
         if (number <= 1) {
             isPrime = false;
